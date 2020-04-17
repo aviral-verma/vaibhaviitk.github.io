@@ -1,19 +1,18 @@
-* {
-            font-family: georgia;}
-            .heading{color:green;
-            font-variant: small-caps;
+* { font-family: georgia;}
+ .heading{
+	color:green;
+         font-variant: small-caps;
             }
-			  .box-cell { 
-				float: left;
-				width:30%; 
+.box-cell { 
+		float: left;
+		width:30%; 
                 height: 200px;
-              margin: 1%;
-				padding:5px; 
+                margin: 1%;
+		padding:5px; 
                 border-style: solid;
                 border-color:black;
-              box-sizing: border-box;
-              
-			} 
+                box-sizing: border-box;
+              } 
 			 .box-cell.box1 { 
 				background:red; 
 				 color:white;
