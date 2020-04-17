@@ -1,1 +1,22 @@
-
+  .box-cell { 
+				float: left;
+				width:30%; 
+        height: 200px;
+        margin: 1%;
+				padding:5px; 
+        box-sizing: border-box;
+              
+			} 
+			 .box-cell.box1 { 
+				background:red; 
+				color:white; 
+				text-align:left; 
+			} 
+			 .box-cell.box2 { 
+				background:lightgreen; 
+				text-align:left 
+			} 
+			  .box-cell.box3 { 
+				background:lime; 
+				text-align:left; 
+			} 
