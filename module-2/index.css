@@ -1,14 +1,11 @@
   .box-cell { 
-				float: left;
-				width:30%; 
+	float: left;
+	width:30%; 
         height: 200px;
         margin: 1%;
 	border-style: solid;
-	
-				padding:5px; 
-        box-sizing: border-box;
-              
-			} 
+	padding:5px; 
+	} 
 			 .box-cell.box1 { 
 				background:red;  
 				text-align:left; 
