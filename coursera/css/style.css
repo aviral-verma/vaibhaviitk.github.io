@@ -30,3 +30,9 @@ div section {
     position: absolute;
     left: 10px;
 }
+@media(min-width: 768px){
+    .hide-nav {
+        display: none;
+    }
+}
+
